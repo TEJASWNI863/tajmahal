@@ -1,0 +1,32 @@
+.im{
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png');
+    background-size: cover;
+    height: 180vh;
+    width: 100vw;
+    
+}
+.h2{
+    color: white;
+    padding: 20px;
+
+}
+.text{
+    background-color: white;
+    padding: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+
+}
+.h{
+    font-family: caveat;
+    
+}
+.detailed{
+    margin: 20px;
+}
+.butt{
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+}
